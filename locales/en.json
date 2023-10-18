@@ -1,0 +1,41 @@
+{
+  "errors": {
+    "trip_date": "Please enter a valid date.",
+    "ticket_class": "Please select a ticket class.",
+    "trip_type": "Please select a trip type.",
+    "passengers": "Please enter a valid number of passengers."
+  },
+
+  "global": {
+    "app_name": "Travel Agency",
+    "about_us": "About Us",
+    "footer_subtitle": "Your first destination to book flights",
+    "copyright": "All rights reserved.",
+    "help": "Help",
+    "submit": "Submit",
+    "passengers": "Passengers",
+    "trip_type": "Trip Type",
+    "trip_date": "Trip Date",
+    "ticket_class": "Ticket Class",
+    "eg_pound": "LE"
+  },
+
+  "home": {
+    "title": "Home",
+
+    "intro": {
+      "title": "Book your flight with us",
+      "subtitle": "Your first destination to book flights"
+    },
+
+    "book": {
+      "title": "Book Now",
+      "subtitle": "Book your flight now and enjoy the best offers"
+    },
+
+    "blog": {
+      "title": "Browse upcoming flights",
+      "subtitle": "Browse flights and book your trip"
+    }
+  }
+}

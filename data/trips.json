@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Cairo to Aswan",
+    "slug": "cairo-to-aswan",
+    "price": 450
+  },
+  {
+    "id": 2,
+    "name": "Gada to Cairo",
+    "slug": "gada-to-cairo",
+    "price": 2650
+  },
+  {
+    "id": 3,
+    "name": "Cairo to Elmadina",
+    "slug": "cairo-to-elmadina",
+    "price": 3700
+  }
+]
